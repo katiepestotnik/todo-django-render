@@ -1,1 +1,1 @@
-https://katie-render-django-test.onrender.com
+https://katie-render-django-test.onrender.com/todos/
